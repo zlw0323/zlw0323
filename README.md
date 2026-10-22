@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E6FF&height=200&section=header&text=River&fontColor=ffffff&fontSize=70&fontAlignY=40&animation=fadeIn" alt="River" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:50E6FF&height=200&section=header&text=River&fontColor=ffffff&fontSize=70&fontAlignY=40" alt="River" width="100%" />
 </p>
 
 <p align="center">
