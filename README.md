@@ -10,17 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zlw0323&style=flat-square&color=0078D4&label=Profile+views" alt="profile views" />
-  <a href="https://github.com/zlw0323?tab=followers"><img src="https://img.shields.io/github/followers/zlw0323?style=flat-square&color=50E6FF&label=Followers" alt="followers" /></a>
-</p>
-
-<p align="center">
   <b>🌐 语言 / Language：</b>点击下方标题切换 · Click a heading below to switch
 </p>
 
 <!-- ========================= 中文 ========================= -->
 <details open>
-<summary><h2>🇨🇳 中文</h2></summary>
+<summary><h2>中文</h2></summary>
 
 ### 👋 你好，我是 zlw0323
 
@@ -64,7 +59,7 @@
 
 <!-- ========================= English ========================= -->
 <details>
-<summary><h2>🇬🇧 English</h2></summary>
+<summary><h2>English</h2></summary>
 
 ### 👋 Hi, I'm zlw0323
 
